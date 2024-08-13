@@ -1,0 +1,5 @@
+### GET ALL ADDRESS
+GET http://localhost:8080/getAddress
+
+### CREATE PDF
+GET http://localhost:8080/jasperpdf/export
